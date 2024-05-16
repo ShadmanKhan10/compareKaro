@@ -1,0 +1,50 @@
+.About-us-Container {
+  background-color: #38b6ff;
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
+}
+.content-container-div {
+  background-color: white;
+  height: 400px;
+  width: 600px;
+  border-radius: 20px;
+}
+.constructor-img {
+  height: 500px;
+  width: 400px;
+}
+.div-logo {
+  text-align: center;
+  font-size: 1.6em;
+}
+.container-tagline {
+  text-align: center;
+  line-height: 0.5;
+  padding-bottom: 1.1em;
+}
+.container-div-heading {
+  font-size: 2em;
+  text-align: left;
+}
+.container-div-text-content {
+  text-align: left;
+  font-size: 1.5em;
+}
+.card-div {
+  padding-left: 1.1em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+.container-button {
+  color: white;
+  border: none;
+  font-size: 1.2em; /* Adjust font size as needed */
+  border-radius: 25px;
+  cursor: pointer;
+  background-color: black;
+  padding: 10px 25px 10px 25px;
+  margin-top: 0.5em;
+}

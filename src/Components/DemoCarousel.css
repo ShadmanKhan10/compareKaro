@@ -1,0 +1,14 @@
+.carousel-container {
+  /* border: 2px solid black; */
+  height: 30em;
+  width: 100%;
+  margin-top: 2em;
+  border: 2px solid black;
+}
+img {
+  height: 30em;
+  width: 100%;
+}
+.carousel-container .carousel .thumbs-wrapper {
+  display: none !important;
+}

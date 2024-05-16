@@ -1,0 +1,174 @@
+/* .main-div {
+  border: 2px solid black;
+  background-color: #38b6ff;
+  height: 100vh;
+}
+
+.text-content-div {
+  display: flex;
+  text-align: left;
+  border: 2px solid rgb(216, 36, 36);
+  height: 100vh;
+}
+.text-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.image-div {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  border: 2px solid rgb(118, 181, 41);
+  width: 50%;
+}
+
+ */
+/* .main-div { */
+/* border: 2px solid black; */
+/* background-color: #38b6ff;
+  height: 100vh;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row;
+}
+
+.text-content-div {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid rgb(216, 36, 36);
+  height: 100vh;
+  width: 70%;
+  align-items: center;
+}
+
+.hero-image {
+  height: 450px;
+  width: 450px;
+}
+.hero-button {
+  background-color: black;
+  padding: 10px 25px 10px 25px;
+  color: white;
+  font-size: 0.9em;
+  cursor: pointer;
+  margin-left: 0.5em;
+  border-radius: 25px;
+}
+.text-item1 {
+  color: white;
+  font-size: 4em;
+  text-align: left;
+}
+.text-item2 {
+  color: white;
+  font-size: 4em;
+}
+.tagline {
+  font-size: 1.6em;
+  padding-bottom: 0.5em;
+}
+
+.image-div {
+  width: 50%;
+  border: 2px solid rgb(118, 181, 41);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  justify-content: center;
+  align-items: center;
+}
+.text-div {
+  display: inline-block;
+} */
+
+/* Create a new CSS file, e.g., Home.css, and add the following styles */
+
+/* body {
+  margin: 0;
+} */
+
+.main-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 20px; */
+  padding-bottom: 3.9em;
+  padding-top: 3.9em;
+  padding-left: 3em;
+  height: 100%;
+  background-color: #38b6ff; /* Adjust padding as needed */
+}
+
+.text-content-div {
+  flex: 1; /* Take remaining space */
+}
+
+.text-item1 {
+  color: white;
+  line-height: 0.5;
+  font-size: 4em; /* Adjust font size as needed */
+  margin-bottom: 10px; /* Adjust margin as needed */
+}
+
+.text-item2 {
+  color: white;
+  font-size: 4em; /* Adjust font size as needed */
+  margin-bottom: 10px; /* Adjust margin as needed */
+}
+
+.tagline {
+  font-size: 1.5em; /* Adjust font size as needed */
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
+
+.hero-button {
+  color: white;
+  border: none;
+  font-size: 1.2em; /* Adjust font size as needed */
+  border-radius: 25px;
+  cursor: pointer;
+  background-color: black;
+  padding: 10px 25px 10px 25px;
+}
+
+.image-div {
+  display: flex;
+  flex: 1;
+  justify-content: right; /* Take remaining space */
+  margin-right: 50px;
+}
+
+.hero-image {
+  width: 550px; /* Ensure the image takes the full width of its container */
+  height: 550px; /* Maintain aspect ratio */
+}
+.search-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1em;
+}
+
+.input-search {
+  flex: 1; /* Take remaining space */
+  width: 30em;
+  padding: 0.7em;
+  border: none;
+  font-size: 1em;
+  margin-bottom: 0.2em;
+  border-radius: 5px;
+  outline: 0;
+}
+
+.search-button {
+  background-color: black;
+  color: white;
+  width: 7em;
+  font-size: 1.1em;
+  padding: 0.6em;
+  margin-left: 0em; /* Adjust margin as needed for spacing between input and button */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

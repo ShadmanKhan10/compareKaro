@@ -1,0 +1,15 @@
+.phone-input::-webkit-inner-spin-button,
+.phone-input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.phone-input {
+  padding: 0.6em;
+  width: 30em;
+  font-size: 1em;
+  margin: 0.5em;
+  border: none;
+  background-color: rgb(201, 225, 246);
+  border-radius: 0.7em;
+  outline: none;
+}

@@ -1,0 +1,21 @@
+.about-us-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 2em;
+}
+.Aboutus-logo {
+  display: flex;
+  justify-content: flex-end;
+  height: 500px;
+  width: 400px;
+}
+.about-description {
+  text-align: center;
+  font-size: 2em;
+}
+.text-paragraph {
+  display: flex;
+  justify-content: center;
+  width: 40em;
+}

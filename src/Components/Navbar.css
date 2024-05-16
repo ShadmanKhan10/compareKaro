@@ -1,0 +1,58 @@
+.navbar {
+  background-color: #38b6ff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.89em;
+  position: fixed;
+  width: 99%;
+}
+
+.logo-list-items {
+  display: inline-block;
+  margin-right: 0.5em;
+}
+
+.navbar-list-items {
+  display: inline-block;
+  margin-right: 0.6em;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.router-link {
+  text-decoration: none;
+  color: black;
+}
+
+.router-link-span {
+  text-decoration: none;
+  color: black;
+}
+
+.join-span {
+  background-color: black;
+  padding: 7px 20px 7px 20px;
+  color: white;
+  font-size: 0.9em;
+  cursor: pointer;
+  margin-left: 0.5em;
+  border-radius: 25px;
+}
+
+.logo-image {
+  height: 2em;
+  width: 2em;
+}
+.company-name {
+  font-size: 1.5em;
+  font-weight: 900;
+}
+.logo-ul {
+  display: flex;
+  align-items: center;
+  height: 25px;
+  cursor: pointer;
+}
+.navbar-ul {
+  display: flex;
+}
