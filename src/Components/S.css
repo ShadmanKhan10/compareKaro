@@ -1,0 +1,31 @@
+.success-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 6em;
+  margin: 2em;
+  flex-direction: column;
+  background-color: rgb(113, 234, 113);
+  border-radius: 2em;
+}
+
+.heading-des {
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+.heading-exit {
+  color: rgb(22, 19, 19);
+}
+
+.btns-props {
+  padding: 1em;
+  border-radius: 1em;
+  color: white;
+  background-color: black;
+  font-size: 1em;
+  border: none;
+  cursor: pointer;
+}

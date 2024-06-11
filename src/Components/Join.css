@@ -79,3 +79,17 @@
   border-radius: 0.7em;
   outline: none;
 }
+.msg-join {
+  padding: 0.5em;
+  margin-top: 1em;
+  border-radius: 1em;
+  border: none;
+  background-color: rgb(201, 225, 246);
+
+  cursor: pointer;
+}
+.btn-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -35,29 +35,37 @@
   align-items: center;
 }
 .span-filter {
-  border: 1px solid black;
   border-radius: 2em;
   padding-right: 1em;
   padding-left: 1em;
   margin-right: 0.2em;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
+  background-color: #38b6ff;
 }
 .span-filter-dropdown {
   border: none;
   font-size: 1em;
   outline: none;
+  background-color: #38b6ff;
+  font-weight: bold;
 }
 .span-sort {
-  border: 1px solid black;
   border-radius: 2em;
   padding-right: 1em;
   padding-left: 1em;
   margin-right: 0.2em;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
+  background-color: #38b6ff;
 }
 .span-brand {
-  border: 1px solid black;
   border-radius: 2em;
   padding-right: 1em;
   padding-left: 1em;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
+  background-color: #38b6ff;
 }
 .items-list {
   /* border: 2px solid black; */
@@ -74,6 +82,7 @@
   width: 300px;
   background-color: white;
   border-radius: 1em;
+  margin-bottom: 2em;
 }
 .item-card-img-div {
   height: 200px;
@@ -181,4 +190,30 @@
 }
 .demo-carousel-image {
   margin-top: 2em;
+}
+
+.rating-low {
+  border-radius: 0.2em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  margin-left: 0.5em;
+  font-size: 0.9em;
+  background-color: red;
+  text-align: center;
+  font-weight: 650;
+  color: white;
+  border: none;
+}
+
+.rating-high {
+  border-radius: 0.2em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  margin-left: 0.5em;
+  font-size: 0.9em;
+  background-color: rgb(69, 141, 0);
+  text-align: center;
+  font-weight: 650;
+  color: white;
+  border: none;
 }
