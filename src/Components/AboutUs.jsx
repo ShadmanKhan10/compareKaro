@@ -7,10 +7,10 @@ export default function AboutUs() {
     <section id="about">
       <div className="About-us-Container">
         <div className="content-container-div">
-          <h4 className="div-logo">compareKaro</h4>
+          <h4 className="div-logo">PriceWare</h4>
           <p className="container-tagline">Behtareen Maan! Kifayati Daam.</p>
           <div className="card-div">
-            <h2 className="container-div-heading">Welcome to compareKaro</h2>
+            <h2 className="container-div-heading">Welcome to PriceWare</h2>
             <p className="container-div-text-content">
               A platform where smart shopping meets exceptional value.
               Established in 2024, we have been dedicated to revolutionizing the

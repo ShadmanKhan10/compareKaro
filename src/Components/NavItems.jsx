@@ -37,7 +37,7 @@ function NavItems() {
                   duration={500}
                   onClick={handleScrollToTop}
                 >
-                  <h1 className="company-name">compareKaro</h1>
+                  <h1 className="company-name">PriceWare</h1>
                 </ScrollLink>
               </li>
             </ul>

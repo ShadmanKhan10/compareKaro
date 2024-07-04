@@ -8,7 +8,7 @@ export default function Home() {
     <div className="body">
       <div className="main-div">
         <div className="text-content-div">
-          <h1 className="text-item1">Save Smart: Upgrade</h1>
+          <h1 className="text-item1">Sav Smart: Upgrade</h1>
           <h1 className="text-item2"> Your Shopping with us.</h1>
 
           <p className="tagline">Behtareen Maan, Kifayati Daam!</p>
